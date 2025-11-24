@@ -1,4 +1,3 @@
-// index.js
 "use strict";
 
 const { parseCronLine, formatCronOutput } = require("./cronParser");
